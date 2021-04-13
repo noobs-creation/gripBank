@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRIP_bank", "GRIP_bank.csproj", "{9EB73DBD-08DC-45D8-A971-77F3FE1CC031}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EB73DBD-08DC-45D8-A971-77F3FE1CC031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB73DBD-08DC-45D8-A971-77F3FE1CC031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB73DBD-08DC-45D8-A971-77F3FE1CC031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB73DBD-08DC-45D8-A971-77F3FE1CC031}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EFA8BEC-886C-4D5E-BAFF-E2A983175CF9}
+	EndGlobalSection
+EndGlobal
